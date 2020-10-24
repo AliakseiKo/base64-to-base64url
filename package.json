@@ -1,0 +1,27 @@
+{
+  "name": "base64-to-base64url",
+  "version": "1.0.0",
+  "description": "Convert base64 to base64url and back. It works in browser or nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "base64url",
+    "base64-url",
+    "base64 to base64url"
+  ],
+  "author": {
+    "name": "AliakseiKo",
+    "email": "AliakseiKo@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/AliakseiKo/base64-to-base64url#readme",
+  "bugs": {
+    "url": "https://github.com/AliakseiKo/base64-to-base64url/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliakseiKo/base64-to-base64url.git"
+  }
+}
